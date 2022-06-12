@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638395941 source:e:\iti_iot\08- c\lab_6\multi line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\ITI_IoT\08- c\tools\MyLibrary.h"
+
+1637750987 e:\iti_iot\08- c\tools\mylibrary.h
+	<windows.h>
+
+1638481081 source:e:\iti_iot\08- c\lab_7\multi line editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"E:\ITI_IoT\08- c\tools\MyLibrary.h"
+
